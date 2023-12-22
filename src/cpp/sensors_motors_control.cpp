@@ -1,4 +1,7 @@
-#include <Wire.h>
+#include <iostream>
+
+#include <wire.h>
+
 #include <Adafruit_MotorShield.h>
 
 Adafruit_MotorShield motorShield = Adafruit_MotorShield();
